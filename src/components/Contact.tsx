@@ -82,7 +82,7 @@ setTimeout(() => setShowToast(false), 4000); // hides after 4 seconds
             <div className="bg-white/10 backdrop-blur-sm p-6 rounded-2xl">
               <h4 className="text-lg font-bold text-white mb-4">Download Resume</h4>
               <a
-                href="https://drive.google.com/file/d/158YbGb0nFmvONYqVAiJz57eYsDdlgHqZ/view?usp=sharing"
+                href="https://drive.google.com/file/d/14d9YScAWmH1C_npd14bsiRhcwCC1mA9r/view?usp=sharing"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="inline-block bg-white text-blue-600 px-6 py-3 rounded-lg font-semibold hover:bg-blue-50 transition-all duration-300 transform hover:scale-105 shadow-lg"
