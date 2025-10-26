@@ -46,17 +46,28 @@ const About = () => {
               </div>
               
               <div className="bg-blue-50 p-6 rounded-xl">
-                <div className="flex items-center mb-4">
-                  <Code className="text-blue-600 mr-3" size={24} />
-                  <h4 className="text-xl font-semibold text-slate-800">Technical Excellence</h4>
-                </div>
-                <p className="text-slate-600">
-                  My expertise spans full-stack development with proficiency in Python, Java, 
-                  JavaScript, Flask, and modern web technologies. I have successfully delivered 
-                  projects ranging from village management systems to machine learning solutions 
-                  for astronomical data analysis.
-                </p>
-              </div>
+  <div className="flex items-center mb-4">
+    <Briefcase className="text-blue-600 mr-3" size={24} />
+    <h4 className="text-xl font-semibold text-slate-800">Experience</h4>
+  </div>
+  <div className="text-slate-600 space-y-4">
+    <div>
+      <p className="font-semibold">Graduate Engineer Trainee - HCL Tech <span className="text-sm italic">(Oct 2025 – Present)</span></p>
+      <ul className="list-disc ml-5 mt-1 text-slate-600">
+        <li>Undergoing training in core Java, OOPs, SDLC, and software development fundamentals through real-world project simulations.</li>
+        <li>Gaining hands-on experience in debugging, problem-solving, and enterprise-level application design.</li>
+      </ul>
+    </div>
+    <div>
+      <p className="font-semibold">Full Stack Developer Intern - QuGates Technologies <span className="text-sm italic">(Sep 2025)</span></p>
+      <ul className="list-disc ml-5 mt-1 text-slate-600">
+        <li>Developed a Recruitment Management System using React and Spring Boot APIs for efficient job creation, updates, and candidate shortlisting.</li>
+        <li>Built interactive dashboards and job application forms with real-time data handling and seamless API integration.</li>
+      </ul>
+    </div>
+  </div>
+</div>
+
             </div>
           </div>
         </div>
