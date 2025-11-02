@@ -52,7 +52,7 @@ const Navigation = () => {
               </button>
             ))}
             <a
-              href="https://drive.google.com/file/d/1cTpfmYRcIiWKNsfmi_ACZw2t0_EuH7kX/view"
+              href="https://drive.google.com/file/d/1hWqH2RqjJ35KY4BCnXC2tYmiFToxcw7C/view?usp=sharing"
               target="_blank"
               rel="noopener noreferrer"
               className="bg-blue-600 text-white px-6 py-2 rounded-full hover:bg-blue-700 transition-colors duration-200 font-medium"
